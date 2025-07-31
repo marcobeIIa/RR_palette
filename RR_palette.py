@@ -1,13 +1,21 @@
 from matplotlib import rcParams
 from cycler import cycler
 
+#tailwind_palette = [
+#    '#ad7577',  # Old rose
+#    '#b9c1f1',  # Periwinkle
+#    '#a09bb2',  # Rose quartz
+#    '#776158',  # Wenge
+#    '#9c5429',  # Brown
+#    '#1e1b08'   # Smoky black
+#]
 tailwind_palette = [
-    '#ad7577',  # Old rose
-    '#b9c1f1',  # Periwinkle
-    '#a09bb2',  # Rose quartz
-    '#776158',  # Wenge
-    '#9c5429',  # Brown
-    '#1e1b08'   # Smoky black
+    "#d14b57",  # Old rose
+    "#5561f3",  # Periwinkle
+    "#8c76da",  # Rose quartz
+    "#705149",  # Wenge
+    "#b65e1d",  # Brown
+    "#262626",  # Smoky black
 ]
 
 def set_tailwind_palette():
