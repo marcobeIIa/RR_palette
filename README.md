@@ -48,4 +48,5 @@ plt.show()
 
 <img width="543" height="413" alt="immagine" src="https://github.com/user-attachments/assets/42c21c0b-0430-42e3-a237-530763c5e3dc" />
 
-[currently the color palette is not representative of the image. will fix]
+[currently the color palette is not representative of the image. will fix.
+the more faithful color palette is commented in RR_palette.py, however it did not perform very well in plotting as all colors looked the same]
